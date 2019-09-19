@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-size: 12px;
+
+    background-image: url("https://images.pexels.com/photos/951531/pexels-photo-951531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: 1540px;  
+    background-position: center;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.4em;
+    color: black; 
+}
+
+    /*
+h2 {
+    
+    text-align: center;
+    font-size: 1.4em;
+    color: black; 
+    
+}
+nav {
+    width: 20%;
+}
+    */
+
+}
